@@ -1,1 +1,37 @@
+body{
+    background-color: rgb(143, 75, 189);
+}
+.mobile-navigation
+{
+    border: 2px solid white;
+    border-radius: 10px;
+    background-color: white;
+    margin: 100px 515px;  
+}
+.home-img
+{
+    display: flex;
+    justify-content: center;
+    border-radius: 10px;
+}
+.home{
+    border-radius: 10px 10px 0px 0px;
+}
+
+img{
+    height: 400px;
+    width: 300px;
+}
+.icon{
+    height:25px;
+    width: 25px;   
+}
+.img-icon
+{
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+
 
